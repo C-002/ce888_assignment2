@@ -1,0 +1,65 @@
+Total number of weights to evolve is: (168575,)
+(498,) (498,)
+Non-trained NN Test accuracy: 0.0823293172690763
+Step 1.0 : 0.9987357774968394 best: 0.9987357774968394 93
+It took 14.703382357821347 seconds to complete generation 1
+Step 2.0 : 0.9974715549936789 best: 0.9987357774968394 93
+It took 14.555079462653264 seconds to complete generation 2
+Step 3.0 : 0.9987357774968394 best: 0.9987357774968394 93
+It took 14.71322768337566 seconds to complete generation 3
+Step 4.0 : 0.9974715549936789 best: 0.9987357774968394 93
+It took 14.692200934557292 seconds to complete generation 4
+Step 5.0 : 0.9987357774968394 best: 0.9987357774968394 93
+It took 14.72541730337398 seconds to complete generation 5
+Step 6.0 : 0.9974715549936789 best: 0.9987357774968394 93
+It took 14.642479294831176 seconds to complete generation 6
+Step 7.0 : 1.0 best: 1.0 93
+It took 14.522758698067207 seconds to complete generation 7
+Step 8.0 : 0.9974715549936789 best: 1.0 93
+It took 14.621040496955658 seconds to complete generation 8
+Step 9.0 : 1.0 best: 1.0 93
+It took 14.621874076543932 seconds to complete generation 9
+Step 10.0 : 0.9974715549936789 best: 1.0 93
+It took 14.631263501223884 seconds to complete generation 10
+Step 11.0 : 0.9987357774968394 best: 1.0 93
+It took 14.6320077969321 seconds to complete generation 11
+Step 12.0 : 0.9974715549936789 best: 1.0 93
+It took 14.62220237258083 seconds to complete generation 12
+Step 13.0 : 0.9987357774968394 best: 1.0 93
+It took 14.582232428853388 seconds to complete generation 13
+Step 14.0 : 0.9987357774968394 best: 1.0 93
+It took 14.60566273132821 seconds to complete generation 14
+Step 15.0 : 0.9987357774968394 best: 1.0 93
+It took 14.554145537465246 seconds to complete generation 15
+Step 16.0 : 0.9974715549936789 best: 1.0 93
+It took 14.58665237597836 seconds to complete generation 16
+Step 17.0 : 0.9987357774968394 best: 1.0 93
+It took 14.812479358041003 seconds to complete generation 17
+Step 18.0 : 0.9974715549936789 best: 1.0 93
+It took 14.853306980103127 seconds to complete generation 18
+Step 19.0 : 0.9987357774968394 best: 1.0 93
+It took 14.485733937197892 seconds to complete generation 19
+Step 20.0 : 0.9974715549936789 best: 1.0 93
+It took 14.505559699310822 seconds to complete generation 20
+Step 21.0 : 0.9987357774968394 best: 1.0 93
+It took 14.588007436636076 seconds to complete generation 21
+Step 22.0 : 1.0 best: 1.0 93
+It took 14.515100827574656 seconds to complete generation 22
+Step 23.0 : 0.9974715549936789 best: 1.0 93
+It took 14.5819479846337 seconds to complete generation 23
+Step 24.0 : 0.9987357774968394 best: 1.0 93
+It took 14.550520453909769 seconds to complete generation 24
+Step 25.0 : 0.9987357774968394 best: 1.0 93
+It took 14.515401469312394 seconds to complete generation 25
+Step 26.0 : 0.9962073324905183 best: 1.0 93
+It took 14.449903051928459 seconds to complete generation 26
+Step 27.0 : 0.9974715549936789 best: 1.0 93
+It took 14.624559308990172 seconds to complete generation 27
+Step 28.0 : 0.9974715549936789 best: 1.0 93
+It took 14.738785391576982 seconds to complete generation 28
+Step 29.0 : 0.9974715549936789 best: 1.0 93
+It took 14.569612191911347 seconds to complete generation 29
+Step 30.0 : 0.9974715549936789 best: 1.0 93
+It took 14.51577203692085 seconds to complete generation 30
+(498,) (498,)
+Test accuracy: 0.09839357429718876
