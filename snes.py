@@ -58,7 +58,7 @@ class SNES():
         self.center += self.sigmas * dot(utilities, samples)
         covGradient = dot(utilities, [s ** 2 - 1 for s in samples])
         self.sigmas = self.sigmas * exp(0.5 * self.learningRate * covGradient)
-
+        return max(fitnesses)
 
 
 if __name__ == "__main__":
